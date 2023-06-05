@@ -20,7 +20,7 @@ module.exports = {
     // Allow named exports
     'import/prefer-default-export': 'off',
 
-    // Perfer simple import sort
+    // Prefer simple import sort
     'sort-imports': 'off',
     'import/order': 'off',
     'simple-import-sort/exports': 'error',

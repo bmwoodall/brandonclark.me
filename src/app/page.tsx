@@ -18,8 +18,8 @@ export default function Page() {
               </div>
               <h1 className="mt-4 font-display text-4xl/tight font-light ">Howdy! I'm Brandon.</h1>
               <p className="mb-4 text-sm/6  max-w-sm">
-                A frontend engineer specialializing in building accessible, performant, and
-                delightful user experiences.
+                A frontend engineer specializing in building accessible, performant, and delightful
+                user experiences.
               </p>
               <div className="py-4">
                 <Contact />
@@ -29,10 +29,10 @@ export default function Page() {
           <main className="pt-24 lg:w-1/2 lg:py-24">
             <Section title="About Me">
               <p className="mb-4">
-                I'm a frontend engineer based in Austin, TX, who as spent the last 13 years working
+                I'm a frontend engineer based in Austin, TX, who has spent the last 13 years working
                 with teams to create digital products and experiences. With an eye for detail and a
-                voice for the end user, I am passionate about building inclusvie, thoughtful and
-                delighful experiences for all users.
+                voice for the end user, I am passionate about building inclusive, thoughtful and
+                delightful experiences for all users.
               </p>
               <p className="mb-4">
                 When I am not coding, you can find me spending time with my wife and two pups,
